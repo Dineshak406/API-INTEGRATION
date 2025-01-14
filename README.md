@@ -40,3 +40,7 @@ This project is a responsive web dashboard that fetches and displays user data f
 - index.html: Main HTML structure
 - styles.css: All styling rules
 - script.js: JavaScript functionality and API integration
+
+  
+ **OUTPUT** :![Screenshot 2025-01-14 231735](https://github.com/user-attachments/assets/0c1cc376-a3d7-4d56-a32c-c15348a05157)
+
